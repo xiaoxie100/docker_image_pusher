@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 #node-red linux/arm64
 --platform=linux/arm64 nodered/node-red:latest
+#frps docker
+--platform=linux/arm64 stilleshan/frps:latest
